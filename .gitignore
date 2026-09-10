@@ -1,0 +1,6 @@
+# temporales
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
+__pycache__/
